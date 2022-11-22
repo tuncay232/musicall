@@ -1,9 +1,9 @@
 
 # Müzik Bot 🇹🇷
-- [Müzik Bot] (http://t.me/hababam_sinifibot) Telegram Müzik Bot .
+- [Destek] (http://t.me/beyefendimen) Telegram Müzik Bot .
 
 #Destek
-- [Destek] ( https://t.me/hababammsinifi) Telegram Destek Grubu .
+- [Destek] ( https://t.me/beyefendimen) Telegram Destek Grubu .
 
 
 ### ⏳ Genel Komutlar
@@ -25,12 +25,12 @@
 ### Heroku Kurulum ⏳
 <h4>🔺 Herokuya Dağıt 🔻</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efsane2323/Musicall)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tuncay232/musicall)
 
 
 <h4>🔺 Okteto ile Kurulum 🔻</h4> 
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Efsane2323/Musicall"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/tuncay232/musicall"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 
 - Bu botu barındırmanın ikinci en kolay yolu, Okteto Cloud'da Dağıt. 
 
